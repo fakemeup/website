@@ -1,0 +1,21 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;  /* Light blue background */
+    color: #333333;             /* Dark text color */
+    margin: 20px;
+    padding: 0;
+}
+
+h1 {
+    color: #007acc;             /* Blue heading */
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: 0 auto;
+}
